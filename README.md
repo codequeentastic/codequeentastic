@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Rebecca, an aspiring Data Scientist
 
-<!--
-**codequeentastic/codequeentastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Student • Bachelor's of Science • Class of 2024  
+Data Science + Applied Statistics • Specialization: Computer Science**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning projects
+- 🌱 I’m currently learning:
+  - Python, R, C++
+  - Prediction Modeling, Statistical & Bayesian Inference
+  - Applied Regression, Supervised/Unsupervised Learning, Optimization Techniques
+- 👯 I’m looking to collaborate on new projects to help non-profits
+- 🤔 I’m looking for help with getting hired!
+- 💬 Ask me about how my love of math got me here ☺
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rhinrichs)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm going to get my Master's in Artificial Intelligence! follow me in grad school @[1derwoman](https://github.com/1derwoman)
